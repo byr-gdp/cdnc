@@ -2,7 +2,7 @@
   "name": "ccc",
   "version": "1.0.0",
   "description": "clean cdn cache",
-  "main": "cdn.js",
+  "main": "ccc.js",
   "bin": {
     "ccc": "ccc.js"
   },
