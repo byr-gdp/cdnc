@@ -1,10 +1,10 @@
 {
-  "name": "cccc",
-  "version": "1.0.1",
+  "name": "cc",
+  "version": "0.0.1",
   "description": "clean cdn cache",
-  "main": "cccc.js",
+  "main": "cc.js",
   "bin": {
-    "cccc": "cccc.js"
+    "cc": "cc.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
