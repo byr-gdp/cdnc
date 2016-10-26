@@ -1,0 +1,17 @@
+{
+  "name": "ccc",
+  "version": "1.0.0",
+  "description": "clean cdn cache",
+  "main": "cdn.js",
+  "bin": {
+    "ccc": "ccc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byr-gdp",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.7.4"
+  }
+}
