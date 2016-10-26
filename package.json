@@ -1,10 +1,10 @@
 {
-  "name": "cc",
+  "name": "cdnc",
   "version": "0.0.1",
-  "description": "clean cdn cache",
-  "main": "cc.js",
+  "description": "cdn clean",
+  "main": "cdnc.js",
   "bin": {
-    "cc": "cc.js"
+    "cdnc": "cdnc.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
