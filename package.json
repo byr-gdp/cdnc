@@ -1,10 +1,11 @@
 {
   "name": "cdnc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cdn clean",
   "main": "cdnc.js",
   "bin": {
-    "cdnc": "cdnc.js"
+    "cdnc": "cdnc.js",
+    "ccc": "ccc.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +13,7 @@
   "author": "byr-gdp",
   "license": "ISC",
   "dependencies": {
+    "request": "^2.76.0",
     "shelljs": "^0.7.4"
   }
 }
